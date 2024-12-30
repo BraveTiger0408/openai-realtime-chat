@@ -31,7 +31,4 @@ Let me know if you need further help troubleshooting!
 
 
 
-If you want to see more badges, click the “View all achievements” link in the Achievements section.
-If the Pair Extraordinaire badge does not appear here after completing the necessary steps, it may not have been triggered properly. Let me know if you need more help!
-
 
