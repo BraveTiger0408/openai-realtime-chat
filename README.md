@@ -19,15 +19,6 @@ Achievements are part of your GitHub profile page. If you’ve unlocked any, the
 https://github.com/achievements
 If the page says you don’t have any achievements yet, you may not have completed a qualifying action.
 
-#3. Possible Reasons You Can’t See Achievements
-No Achievements Yet: If you haven’t unlocked any achievements (e.g., Pair Extraordinaire, Starstruck), the section might not appear.
-GitHub Account Settings: Some accounts might not display the achievements section if there are profile restrictions or settings affecting visibility.
-GitHub Feature Rollout: Achievements might not yet be available for all regions or accounts, though this is rare.
-#4. What to Do Next
-Double-Check Contributions: Ensure both accounts contributed meaningfully to the pull request in a public repository and wait up to 24 hours for the badge to appear.
-Contact GitHub Support: If you’re sure you’ve met all requirements, you can reach out to GitHub Support for clarification:
-Visit https://support.github.com and submit a request.
-Let me know if you need further help troubleshooting!
 
 
 
